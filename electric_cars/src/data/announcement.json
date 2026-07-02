@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "category": "Spoiler",
+    "name": "BYD Seal Spoiler",
+    "price": "120AZN",
+    "description": "Yenidir",
+    "quantity": 1,
+    "condition": "Yeni",
+    "phone": "+994501112233",
+    "image": "/spoiler/RearSpoilerforBYDSeal_3.jpg"
+  },
+  {
+    "id": 2,
+    "category": "Spoiler",
+    "name": "Changan Deepal Spoiler",
+    "price": "120AZN",
+    "description": "Yenidir",
+    "quantity": 2,
+    "condition": "Yeni",
+    "phone": "+994559998877",
+    "image": "/spoiler/5556a6aec952e31db3a30c8ff1a74ef.webp"
+  },
+  {
+    "id": 3,
+    "category": "Disk",
+    "name": "BYD Seal Disk",
+    "price": "450AZN",
+    "description": "Original disk",
+    "quantity": 4,
+    "condition": "Yeni",
+    "phone": "+994501234567",
+    "image": "/disk/sealdisk.jpg"
+  },
+  {
+    "id": 4,
+    "category": "Disk",
+    "name": "Changan a05  Disk",
+    "price": "600AZN",
+    "description": "Az işlənib",
+    "quantity": 4,
+    "condition": "Satildi",
+    "phone": "+994559876543",
+    "image": "/disk/changandisk.jpg"
+  },
+  {
+    "id": 5,
+    "category": "Fara",
+    "name": "BYD Seal LED Fara",
+    "price": "350AZN",
+    "description": "Original",
+    "quantity": 2,
+    "condition": "Yeni",
+    "phone": "+994501112233",
+    "image": "/fara/BYD Seal LED Fara.jpg"
+  },
+  {
+    "id": 6,
+    "category": "Bufer",
+    "name": "Changan Deepal Ön Bufer",
+    "price": "280AZN",
+    "description": "Yenidir",
+    "quantity": 1,
+    "condition": "Yeni",
+    "phone": "+994559998877",
+    "image": "/bufer/Changanbufer.jpg"
+  },
+  {
+    "id": 7,
+    "category": "Qapı",
+    "name": "BYD Seal Sol Qapı",
+    "price": "500AZN",
+    "description": "Original",
+    "quantity": 1,
+    "condition": "Yeni",
+    "phone": "+994507777777",
+    "image": "/qapi/BYD Seal Sol Qapı.jpg"
+  },
+  {
+    "id": 8,
+    "category": "Adapter",
+    "name": "Type 2 Adapter",
+    "price": "90AZN",
+    "description": "Sürətli enerji doldurma üçün",
+    "quantity": 3,
+    "condition": "Yeni",
+    "phone": "+994505555555",
+    "image": "/adapter/adapter.webp"
+  },
+  {
+    "id": 9,
+    "category": "Ayaq altı",
+    "name": "Changan  Ayaq Altı Dəsti",
+    "price": "70AZN",
+    "description": "Su keçirməyən",
+    "quantity": 5,
+    "condition": "Yeni",
+    "phone": "+994501234123",
+    "image": "/ayaqalti/ayaqalti.webp"
+  },
+  {
+    "id": 10,
+    "category": "Çuxol",
+    "name": "BYD Seal Oturacaq Çuxolu",
+    "price": "150AZN",
+    "description": "Dəri material",
+    "quantity": 2,
+    "condition": "Yeni",
+    "phone": "+994506666666",
+    "image": "/cuxol/BYD Seal Oturacaq Çuxolu.jpeg"
+  },
+  {
+    "id": 11,
+    "category": "Yarasa güzgü",
+    "name": "Changan a05 Yarasa Güzgü",
+    "price": "180AZN",
+    "description": "Elektrikli qatlanan",
+    "quantity": 2,
+    "condition": "Yeni",
+    "phone": "+994504444444",
+    "image": "/guzguyarasa/Yarasa güzgü.jpg"
+  }
+]

@@ -1,0 +1,40 @@
+[
+{
+  "id": 1,
+  "name": "Byd Rejim Seçimi",
+  "description": "“Rejim Seçimi” funksiyası elektrik və yanacaq istifadəsini daha səmərəli idarə etməyə imkan verir. Eko (EV) rejimi əsasən batareya tam dolu olduqda istifadə olunur və bu halda avtomobil daha çox elektrik enerjisindən istifadə edərək benzin sərfiyyatını azaldır. Bu rejim gündəlik və şəhərdaxili sürüş üçün daha qənaətcildir. Save rejimi isə batareyanın doluluğunu qorumaq və lazım olduqda onu yığmaq üçün nəzərdə tutulub — bu rejimdə sistem batareyanın enerjisini saxlamağa və optimal səviyyədə idarə etməyə çalışır.Ən effektiv istifadə üsulu rejimi əsasən Save rejimində saxlamaqdır və batareyanın vəziyyətinə uyğun olaraq EV/Eco (HEV) rejimlərinə keçid etməkdir. Bu yanaşma sayəsində sistem batareyanın enerjisini daha balanslı idarə edir, lazım olduqda onu qoruyur və ya istifadə edir. Nəticədə ümumi yanacaq sərfiyyatı azalır və sürüş daha səmərəli olur. Sürüş rejiminin düzgün idarə olunması isə həm batareya ömrünü, həm də yanacaq iqtisadiyyatını yaxşılaşdırır.",
+  "image": "/info/mode.jpg"
+},
+  {
+    "id": 2,
+    "name": "Byd Dil Dəyişmə",
+    "description": "İnterfeys dilini dəyişmək üçün istifadə olunur.",
+    "image": "/info/langugagechange.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Byd Təkər Təzyiqi",
+    "description": "Təkərlərin hava təzyiqini yoxlamağa və monitorinq etməyə imkan verir.",
+    "image": "/info/lastik.jpg"
+  }
+,
+  {
+  "id": 4,
+  "name": "Changan Rejim Seçimi",
+  "description": "“Rejim Seçimi” funksiyası elektrik və yanacaq istifadəsini daha səmərəli idarə etməyə imkan verir. Eko (EV) rejimi əsasən batareya tam dolu olduqda istifadə olunur və bu halda avtomobil daha çox elektrik enerjisindən istifadə edərək benzin sərfiyyatını azaldır. Bu rejim gündəlik və şəhərdaxili sürüş üçün daha qənaətcildir. Save rejimi isə batareyanın doluluğunu qorumaq və lazım olduqda onu yığmaq üçün nəzərdə tutulub — bu rejimdə sistem batareyanın enerjisini saxlamağa və optimal səviyyədə idarə etməyə çalışır.Ən effektiv istifadə üsulu rejimi əsasən Save rejimində saxlamaqdır və batareyanın vəziyyətinə uyğun olaraq EV/Eco (HEV) rejimlərinə keçid etməkdir. Bu yanaşma sayəsində sistem batareyanın enerjisini daha balanslı idarə edir, lazım olduqda onu qoruyur və ya istifadə edir. Nəticədə ümumi yanacaq sərfiyyatı azalır və sürüş daha səmərəli olur. Sürüş rejiminin düzgün idarə olunması isə həm batareya ömrünü, həm də yanacaq iqtisadiyyatını yaxşılaşdırır.",
+  "image": "/info/changanmode.jpg"
+},
+  {
+    "id": 5,
+    "name": "Changan Dil Dəyişmə",
+    "description": "İnterfeys dilini dəyişmək üçün istifadə olunur.",
+    "image": "/info/ekranchangan.png"
+  },
+  {
+    "id": 6,
+    "name": "Changan Saat Dəyişmə",
+    "description": "Saatı dəyişmək üçün istifadə olunur.",
+    "image": "/info/changansaat.jpg"
+  }
+
+]

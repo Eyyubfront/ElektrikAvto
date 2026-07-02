@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "location": "Hilton Baku",
+    "image": "/changing/hiltonelectriy.png"
+  },
+  {
+    "id": 2,
+    "location": "Badamdar Car Bazaar1",
+    "image": "/changing/badamdarcar.jpg"
+  },
+  {
+    "id": 3,
+    "location": "Green City Only for Tenants/Yalnız Sakinlər üçün",
+    "image": "/changing/grencity.jpg"
+  },
+  {
+    "id": 3,
+    "location": "Sumqayıt Şəhəri, Bakı Küçəsi, Baku Plaza",
+    "image": "/changing/sumqayit3-PjqnkYqZEuV6B7u5.avif"
+  },
+  {
+    "id": 3,
+    "location": "Nərimanov rayonu, Qarabağ küçəsi 22",
+    "image": "/changing/qarabagkcuesi22.avif"
+  },
+  {
+    "id": 3,
+    "location": "Lənkəran Spring Hotel",
+    "image": "/changing/lenkaran_sprin_hotel-65bMkjgmKHMdLBLP.avif"
+  },
+  {
+    "id": 3,
+    "location": "Ağdam Hilton",
+    "image": "/changing/agdamhiltonhotel-vQY2ExkVLd80Nngq.avif"
+  },
+  {
+    "id": 3,
+    "location": "Abşeron City Yaşayış Kompleksi",
+    "image": "/changing/abseron-dyPWf0cru1iwTrKE.avif"
+  }
+]
